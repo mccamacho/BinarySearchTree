@@ -1,0 +1,11 @@
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/obj/Debug/netcoreapp3.0/ALGORITHMS.csprojAssemblyReference.cache
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/obj/Debug/netcoreapp3.0/ALGORITHMS.AssemblyInfoInputs.cache
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/obj/Debug/netcoreapp3.0/ALGORITHMS.AssemblyInfo.cs
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/bin/Debug/netcoreapp3.0/ALGORITHMS
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/bin/Debug/netcoreapp3.0/ALGORITHMS.deps.json
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/bin/Debug/netcoreapp3.0/ALGORITHMS.runtimeconfig.json
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/bin/Debug/netcoreapp3.0/ALGORITHMS.runtimeconfig.dev.json
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/bin/Debug/netcoreapp3.0/ALGORITHMS.dll
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/bin/Debug/netcoreapp3.0/ALGORITHMS.pdb
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/obj/Debug/netcoreapp3.0/ALGORITHMS.dll
+/Users/marcelocamacho/Documents/coding_dojo/c#/ALGORITHMS/obj/Debug/netcoreapp3.0/ALGORITHMS.pdb
